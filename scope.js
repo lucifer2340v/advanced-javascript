@@ -10,7 +10,7 @@ function sum(f,s){
         //console.log(mood);
     }
     console.log(day);
-    let day="friday";
+    var day="friday";
     return result;
 }
 
